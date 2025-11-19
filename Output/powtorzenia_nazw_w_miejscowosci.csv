@@ -1,0 +1,531 @@
+SYM_NAZWA;LICZBA_WYSTAPIEN;CECHA;NAZWA_1;NAZWA_2;SYM_UL;WOJ_NAZWA;POW_NAZWA;GMI_NAZWA;GMI_RODZ
+Gromadka;2;ul.;Odlewników;;14738;DOLNOŚLĄSKIE;bolesławiecki;Gromadka;gmina wiejska
+Gromadka;2;skwer;Odlewników;im.;42925;DOLNOŚLĄSKIE;bolesławiecki;Gromadka;gmina wiejska
+Biała Podlaska;2;rondo;Dmowskiego;Romana;29979;LUBELSKIE;Biała Podlaska;Biała Podlaska;gmina miejska
+Biała Podlaska;2;ul.;Dmowskiego;Romana;03868;LUBELSKIE;Biała Podlaska;Biała Podlaska;gmina miejska
+Chełm;2;pl.;Żwirki i Wigury;;26607;LUBELSKIE;Chełm;Chełm;gmina miejska
+Chełm;2;ul.;Żwirki i Wigury;;26608;LUBELSKIE;Chełm;Chełm;gmina miejska
+Lublin;2;pl.;Kochanowskiego;Jana;08727;LUBELSKIE;Lublin;Lublin;gmina miejska
+Lublin;2;ul.;Kochanowskiego;Jana;08728;LUBELSKIE;Lublin;Lublin;gmina miejska
+Lublin;2;ul.;Dmowskiego;Romana;03868;LUBELSKIE;Lublin;Lublin;gmina miejska
+Lublin;2;rondo;Dmowskiego;Romana;29979;LUBELSKIE;Lublin;Lublin;gmina miejska
+Lublin;2;rondo;Pileckiego;Rotmistrza Witolda;41361;LUBELSKIE;Lublin;Lublin;gmina miejska
+Lublin;2;ul.;Pileckiego;Rotmistrza Witolda;31083;LUBELSKIE;Lublin;Lublin;gmina miejska
+Tomaszów Mazowiecki;2;os.;Górna;;05947;ŁÓDZKIE;tomaszowski;Tomaszów Mazowiecki;gmina miejska
+Tomaszów Mazowiecki;2;ul.;Górna;;05948;ŁÓDZKIE;tomaszowski;Tomaszów Mazowiecki;gmina miejska
+Tomaszów Mazowiecki;2;os.;Hubala;mjr.;06770;ŁÓDZKIE;tomaszowski;Tomaszów Mazowiecki;gmina miejska
+Tomaszów Mazowiecki;2;ul.;Hubala;mjra;48565;ŁÓDZKIE;tomaszowski;Tomaszów Mazowiecki;gmina miejska
+Tomaszów Mazowiecki;2;ul.;Strzelecka;;21381;ŁÓDZKIE;tomaszowski;Tomaszów Mazowiecki;gmina miejska
+Tomaszów Mazowiecki;2;os.;Strzelecka;;21380;ŁÓDZKIE;tomaszowski;Tomaszów Mazowiecki;gmina miejska
+Tomaszów Mazowiecki;2;ul.;Zapiecek;;25618;ŁÓDZKIE;tomaszowski;Tomaszów Mazowiecki;gmina miejska
+Tomaszów Mazowiecki;2;os.;Zapiecek;;25617;ŁÓDZKIE;tomaszowski;Tomaszów Mazowiecki;gmina miejska
+Tomaszów Mazowiecki;2;os.;Kanonierów;;07951;ŁÓDZKIE;tomaszowski;Tomaszów Mazowiecki;gmina miejska
+Tomaszów Mazowiecki;2;ul.;Kanonierów;;07952;ŁÓDZKIE;tomaszowski;Tomaszów Mazowiecki;gmina miejska
+Tomaszów Mazowiecki;2;park;Rodego;im.;18712;ŁÓDZKIE;tomaszowski;Tomaszów Mazowiecki;gmina miejska
+Tomaszów Mazowiecki;2;ul.;Rodego;Doktora Jana Serafina;48560;ŁÓDZKIE;tomaszowski;Tomaszów Mazowiecki;gmina miejska
+Tomaszów Mazowiecki;2;ul.;Tuwima;Juliana;23196;ŁÓDZKIE;tomaszowski;Tomaszów Mazowiecki;gmina miejska
+Tomaszów Mazowiecki;2;rondo;Tuwima;im. Juliana;45841;ŁÓDZKIE;tomaszowski;Tomaszów Mazowiecki;gmina miejska
+Dąbrowa;2;ul.;Lipowa;;11139;OPOLSKIE;opolski;Dąbrowa;gmina wiejska
+Dąbrowa;2;al.;Lipowa;;11138;KUJAWSKO-POMORSKIE;mogileński;Dąbrowa;gmina wiejska
+Wieluń;2;ul.;Stodolniana;;21194;ŁÓDZKIE;wieluński;Wieluń;miasto
+Wieluń;2;os.;Stodolniana;;31676;ŁÓDZKIE;wieluński;Wieluń;miasto
+Wieruszów;2;os.;Fabryczna;;04862;ŁÓDZKIE;wieruszowski;Wieruszów;miasto
+Wieruszów;2;ul.;Fabryczna;;04863;ŁÓDZKIE;wieruszowski;Wieruszów;miasto
+Wieruszów;2;ul.;Warszawska;;23682;ŁÓDZKIE;wieruszowski;Wieruszów;miasto
+Wieruszów;2;os.;Warszawska;;23681;ŁÓDZKIE;wieruszowski;Wieruszów;miasto
+Wieruszów;2;ul.;Waryńskiego;Ludwika;23707;ŁÓDZKIE;wieruszowski;Wieruszów;miasto
+Wieruszów;2;os.;Waryńskiego;Ludwika;23704;ŁÓDZKIE;wieruszowski;Wieruszów;miasto
+Chełmno;2;ul.;Nad Browiną;;13742;KUJAWSKO-POMORSKIE;chełmiński;Chełmno;gmina miejska
+Chełmno;2;os.;Nad Browiną;;13741;KUJAWSKO-POMORSKIE;chełmiński;Chełmno;gmina miejska
+Inowrocław;2;ul.;Kasprowicza;Jana;08153;KUJAWSKO-POMORSKIE;inowrocławski;Inowrocław;gmina miejska
+Inowrocław;2;pl.;Kasprowicza;Jana;08152;KUJAWSKO-POMORSKIE;inowrocławski;Inowrocław;gmina miejska
+Inowrocław;2;os.;Okrężek;;14903;KUJAWSKO-POMORSKIE;inowrocławski;Inowrocław;gmina miejska
+Inowrocław;2;ul.;Okrężek;;14904;KUJAWSKO-POMORSKIE;inowrocławski;Inowrocław;gmina miejska
+Gorzów Wielkopolski;2;ul.;Grobla;;06114;LUBUSKIE;Gorzów Wielkopolski;Gorzów Wielkopolski;gmina miejska
+Gorzów Wielkopolski;2;rondo;Grobla;;40454;LUBUSKIE;Gorzów Wielkopolski;Gorzów Wielkopolski;gmina miejska
+Gorzów Wielkopolski;2;rondo;Niepodległości;;34082;LUBUSKIE;Gorzów Wielkopolski;Gorzów Wielkopolski;gmina miejska
+Gorzów Wielkopolski;2;ul.;Niepodległości;;14203;LUBUSKIE;Gorzów Wielkopolski;Gorzów Wielkopolski;gmina miejska
+Gorzów Wielkopolski;2;rondo;Kosynierów Gdyńskich;;36570;LUBUSKIE;Gorzów Wielkopolski;Gorzów Wielkopolski;gmina miejska
+Gorzów Wielkopolski;2;ul.;Kosynierów Gdyńskich;;09503;LUBUSKIE;Gorzów Wielkopolski;Gorzów Wielkopolski;gmina miejska
+Gorzów Wielkopolski;2;rondo;Sybiraków;;26743;LUBUSKIE;Gorzów Wielkopolski;Gorzów Wielkopolski;gmina miejska
+Gorzów Wielkopolski;2;ul.;Sybiraków;;21641;LUBUSKIE;Gorzów Wielkopolski;Gorzów Wielkopolski;gmina miejska
+Gorzów Wielkopolski;2;ul.;Piłsudskiego;marsz. Józefa;16274;LUBUSKIE;Gorzów Wielkopolski;Gorzów Wielkopolski;gmina miejska
+Gorzów Wielkopolski;2;rondo;Piłsudskiego;marsz. Józefa;30062;LUBUSKIE;Gorzów Wielkopolski;Gorzów Wielkopolski;gmina miejska
+Gorzów Wielkopolski;2;ul.;Wyszyńskiego;kard. Stefana;25107;LUBUSKIE;Gorzów Wielkopolski;Gorzów Wielkopolski;gmina miejska
+Gorzów Wielkopolski;2;rondo;Wyszyńskiego;kard. Stefana;31125;LUBUSKIE;Gorzów Wielkopolski;Gorzów Wielkopolski;gmina miejska
+Gorzów Wielkopolski;2;rondo;Kasprzaka;Marcina;36573;LUBUSKIE;Gorzów Wielkopolski;Gorzów Wielkopolski;gmina miejska
+Gorzów Wielkopolski;2;ul.;Kasprzaka;Marcina;08157;LUBUSKIE;Gorzów Wielkopolski;Gorzów Wielkopolski;gmina miejska
+Gorzów Wielkopolski;2;rondo;Jerzego;Świętego;40453;LUBUSKIE;Gorzów Wielkopolski;Gorzów Wielkopolski;gmina miejska
+Gorzów Wielkopolski;2;ul.;Jerzego;Świętego;41132;LUBUSKIE;Gorzów Wielkopolski;Gorzów Wielkopolski;gmina miejska
+Czernica;2;pl.;Jana Pawła II;;07122;DOLNOŚLĄSKIE;wrocławski;Czernica;gmina wiejska
+Czernica;2;ul.;Jana Pawła II;;07123;POMORSKIE;chojnicki;Brusy;obszar wiejski
+Zielona Góra;2;ul.;Stefana Batorego;;00891;LUBUSKIE;Zielona Góra;Zielona Góra;gmina miejska
+Zielona Góra;2;rondo;Stefana Batorego;;38282;LUBUSKIE;Zielona Góra;Zielona Góra;gmina miejska
+Zielona Góra;2;park;Sowińskiego;;20620;LUBUSKIE;Zielona Góra;Zielona Góra;gmina miejska
+Zielona Góra;2;ul.;Sowińskiego;Generała Józefa;37884;LUBUSKIE;Zielona Góra;Zielona Góra;gmina miejska
+Włocławek;2;park;Sienkiewicza;im. Henryka;19835;KUJAWSKO-POMORSKIE;Włocławek;Włocławek;gmina miejska
+Włocławek;2;ul.;Sienkiewicza;Henryka;19834;KUJAWSKO-POMORSKIE;Włocławek;Włocławek;gmina miejska
+Józefów;3;ul.;Piłsudskiego;Marszałka;37694;MAZOWIECKIE;otwocki;Józefów;gmina miejska
+Józefów;3;rynek;Piłsudskiego;im. Józefa;16255;LUBELSKIE;biłgorajski;Józefów;miasto
+Józefów;3;ul.;Piłsudskiego;Józefa;16264;LUBELSKIE;biłgorajski;Józefów;miasto
+Zelów;2;os.;Płocka;;16510;ŁÓDZKIE;bełchatowski;Zelów;miasto
+Zelów;2;ul.;Płocka;;16511;ŁÓDZKIE;bełchatowski;Zelów;miasto
+Nowy Targ;2;ul.;Jana Pawła II;;07123;MAŁOPOLSKIE;nowotarski;Nowy Targ;gmina miejska
+Nowy Targ;2;rondo;Jana Pawła II;;32104;MAŁOPOLSKIE;nowotarski;Nowy Targ;gmina miejska
+Nowy Targ;2;pl.;Krasińskiego;Zygmunta;09847;MAŁOPOLSKIE;nowotarski;Nowy Targ;gmina miejska
+Nowy Targ;2;ul.;Krasińskiego;Zygmunta;09848;MAŁOPOLSKIE;nowotarski;Nowy Targ;gmina miejska
+Krościenko nad Dunajcem;2;ul.;Grotowskiego;Władysława;28559;MAŁOPOLSKIE;nowotarski;Krościenko nad Dunajcem;gmina wiejska
+Krościenko nad Dunajcem;2;park;Grotowskiego;inż. Władysława;40245;MAŁOPOLSKIE;nowotarski;Krościenko nad Dunajcem;gmina wiejska
+Pruszków;2;park;Kościuszki;T.;09575;MAZOWIECKIE;pruszkowski;Pruszków;gmina miejska
+Pruszków;2;ul.;Kościuszki;Tadeusza;09582;MAZOWIECKIE;pruszkowski;Pruszków;gmina miejska
+Łowicz;2;os.;Broniewskiego;Władysława;02122;ŁÓDZKIE;łowicki;Łowicz;gmina miejska
+Łowicz;2;ul.;Broniewskiego;Władysława;02125;ŁÓDZKIE;łowicki;Łowicz;gmina miejska
+Łowicz;2;os.;Konopnickiej;Marii;09183;ŁÓDZKIE;łowicki;Łowicz;gmina miejska
+Łowicz;2;ul.;Konopnickiej;Marii;09186;ŁÓDZKIE;łowicki;Łowicz;gmina miejska
+Łowicz;2;ul.;Tkaczew;;31464;ŁÓDZKIE;łowicki;Łowicz;gmina miejska
+Łowicz;2;os.;Tkaczew;;22795;ŁÓDZKIE;łowicki;Łowicz;gmina miejska
+Łowicz;2;skwer;Lament;Błogosławionej Bolesławy;46570;ŁÓDZKIE;łowicki;Łowicz;gmina miejska
+Łowicz;2;ul.;Lament;Błogosławionej Bolesławy;43848;ŁÓDZKIE;łowicki;Łowicz;gmina miejska
+Koluszki;2;ul.;Czarneckiego;;03275;ŁÓDZKIE;łódzki wschodni;Koluszki;miasto
+Koluszki;2;os.;Czarneckiego;;03274;ŁÓDZKIE;łódzki wschodni;Koluszki;miasto
+Koluszki;2;ul.;Głowackiego;;05623;ŁÓDZKIE;łódzki wschodni;Koluszki;miasto
+Koluszki;2;os.;Głowackiego;;05622;ŁÓDZKIE;łódzki wschodni;Koluszki;miasto
+Koluszki;2;ul.;Listopada;11;11205;ŁÓDZKIE;łódzki wschodni;Koluszki;miasto
+Koluszki;2;os.;Listopada;11;11201;ŁÓDZKIE;łódzki wschodni;Koluszki;miasto
+Koluszki;2;ul.;Piłsudskiego;Marszałka;37694;ŁÓDZKIE;łódzki wschodni;Koluszki;miasto
+Koluszki;2;pl.;Piłsudskiego;Marszałka Józefa;39388;ŁÓDZKIE;łódzki wschodni;Koluszki;miasto
+Kobylany;2;ul.;Kaczorowskiego;Ryszarda;45147;LUBELSKIE;bialski;Terespol;gmina wiejska
+Kobylany;2;pl.;Kaczorowskiego;Ryszarda;45278;LUBELSKIE;bialski;Terespol;gmina wiejska
+Brzeziny;2;pl.;Jana Pawła II;;07122;ŁÓDZKIE;brzeziński;Brzeziny;gmina miejska
+Brzeziny;2;ul.;Jana Pawła II;;07123;ŚLĄSKIE;myszkowski;Koziegłowy;obszar wiejski
+Łódź;2;ul.;Staszica;ks. Stanisława;21068;ŁÓDZKIE;Łódź;Łódź-Bałuty;delegatura
+Łódź;2;park;Staszica;im. Stanisława;21066;ŁÓDZKIE;Łódź;Łódź-Śródmieście;delegatura
+Łódź;2;park;Piastowski;;16049;ŁÓDZKIE;Łódź;Łódź-Bałuty;delegatura
+Łódź;2;pl.;Piastowski;;16050;ŁÓDZKIE;Łódź;Łódź-Bałuty;delegatura
+Łódź;3;park;Dąbrowskiego;Jarosława;03685;ŁÓDZKIE;Łódź;Łódź-Górna;delegatura
+Łódź;3;ul.;Dąbrowskiego;gen. Jarosława;03676;ŁÓDZKIE;Łódź;Łódź-Górna;delegatura
+Łódź;3;pl.;Dąbrowskiego;gen. Henryka;03672;ŁÓDZKIE;Łódź;Łódź-Śródmieście;delegatura
+Łódź;3;al.;Jana Pawła II;;07120;ŁÓDZKIE;Łódź;Łódź-Górna;delegatura
+Łódź;3;al.;Jana Pawła II;;07120;ŁÓDZKIE;Łódź;Łódź-Polesie;delegatura
+Łódź;3;pl.;Jana Pawła II;;07122;ŁÓDZKIE;Łódź;Łódź-Śródmieście;delegatura
+Łódź;2;ul.;Cyganka;;03168;ŁÓDZKIE;Łódź;Łódź-Polesie;delegatura
+Łódź;2;skwer;Cyganka;;61845;ŁÓDZKIE;Łódź;Łódź-Polesie;delegatura
+Łódź;3;park;Struga;im. Andrzeja;21309;ŁÓDZKIE;Łódź;Łódź-Bałuty;delegatura
+Łódź;3;ul.;Struga;Andrzeja;21308;ŁÓDZKIE;Łódź;Łódź-Polesie;delegatura
+Łódź;3;ul.;Struga;Andrzeja;21308;ŁÓDZKIE;Łódź;Łódź-Śródmieście;delegatura
+Łódź;2;ul.;Broniewskiego;Władysława;02125;ŁÓDZKIE;Łódź;Łódź-Górna;delegatura
+Łódź;2;rondo;Broniewskiego;Władysława;02124;ŁÓDZKIE;Łódź;Łódź-Górna;delegatura
+Łódź;2;park;Żeromskiego;Stefana;27850;ŁÓDZKIE;Łódź;Łódź-Bałuty;delegatura
+Łódź;2;ul.;Żeromskiego;Stefana;26469;ŁÓDZKIE;Łódź;Łódź-Polesie;delegatura
+Łódź;3;pl.;Reymonta;Władysława Stanisława;18651;ŁÓDZKIE;Łódź;Łódź-Górna;delegatura
+Łódź;3;ul.;Reymonta;Władysława;18648;ŁÓDZKIE;Łódź;Łódź-Górna;delegatura
+Łódź;3;park;Reymonta;im. Władysława;18647;ŁÓDZKIE;Łódź;Łódź-Górna;delegatura
+Łódź;2;park;Poniatowskiego;im. Józefa;17103;ŁÓDZKIE;Łódź;Łódź-Polesie;delegatura
+Łódź;2;ul.;Poniatowskiego;Księcia Józefa;17113;ŁÓDZKIE;Łódź;Łódź-Polesie;delegatura
+Łódź;2;pl.;Głowackiego;Bartosza;05626;ŁÓDZKIE;Łódź;Łódź-Polesie;delegatura
+Łódź;2;ul.;Głowackiego;Wojciecha;05629;ŁÓDZKIE;Łódź;Łódź-Bałuty;delegatura
+Łódź;4;ul.;Maja;3;11937;ŁÓDZKIE;Łódź;Łódź-Górna;delegatura
+Łódź;4;park;Maja;1;11923;ŁÓDZKIE;Łódź;Łódź-Górna;delegatura
+Łódź;4;al.;Maja;1;11921;ŁÓDZKIE;Łódź;Łódź-Polesie;delegatura
+Łódź;4;park;Maja;3;11934;ŁÓDZKIE;Łódź;Łódź-Widzew;delegatura
+Łódź;3;ul.;Legionów;;10769;ŁÓDZKIE;Łódź;Łódź-Polesie;delegatura
+Łódź;3;ul.;Legionów;;10769;ŁÓDZKIE;Łódź;Łódź-Śródmieście;delegatura
+Łódź;3;park;Legionów;;27866;ŁÓDZKIE;Łódź;Łódź-Górna;delegatura
+Łódź;2;park;Sienkiewicza;im. Henryka;19835;ŁÓDZKIE;Łódź;Łódź-Śródmieście;delegatura
+Łódź;2;ul.;Sienkiewicza;Henryka;19834;ŁÓDZKIE;Łódź;Łódź-Śródmieście;delegatura
+Łódź;3;al.;Piłsudskiego;marsz. Józefa;16270;ŁÓDZKIE;Łódź;Łódź-Śródmieście;delegatura
+Łódź;3;al.;Piłsudskiego;marsz. Józefa;16270;ŁÓDZKIE;Łódź;Łódź-Widzew;delegatura
+Łódź;3;park;Piłsudskiego;Marszałka Józefa;53809;ŁÓDZKIE;Łódź;Łódź-Polesie;delegatura
+Łódź;2;park;Matejki;Jana;12487;ŁÓDZKIE;Łódź;Łódź-Śródmieście;delegatura
+Łódź;2;ul.;Matejki;Jana;12489;ŁÓDZKIE;Łódź;Łódź-Śródmieście;delegatura
+Łódź;2;park;Moniuszki;im. Stanisława;13244;ŁÓDZKIE;Łódź;Łódź-Śródmieście;delegatura
+Łódź;2;ul.;Moniuszki;Stanisława;13246;ŁÓDZKIE;Łódź;Łódź-Śródmieście;delegatura
+Łódź;2;park;Nad Jasieniem;;13757;ŁÓDZKIE;Łódź;Łódź-Widzew;delegatura
+Łódź;2;ul.;Nad Jasieniem;;13758;ŁÓDZKIE;Łódź;Łódź-Górna;delegatura
+Łódź;2;ul.;Różyckiego;Ludomira;19021;ŁÓDZKIE;Łódź;Łódź-Górna;delegatura
+Łódź;2;rondo;Różyckiego;Jerzego;62901;ŁÓDZKIE;Łódź;Łódź-Polesie;delegatura
+Łódź;2;rondo;Andersa;Generała Władysława;51212;ŁÓDZKIE;Łódź;Łódź-Polesie;delegatura
+Łódź;2;park;Andersa;Generała Władysława;53749;ŁÓDZKIE;Łódź;Łódź-Bałuty;delegatura
+Łódź;2;park;Zaruskiego;Generała Mariusza;53752;ŁÓDZKIE;Łódź;Łódź-Widzew;delegatura
+Łódź;2;ul.;Zaruskiego;gen. Mariusza;25674;ŁÓDZKIE;Łódź;Łódź-Widzew;delegatura
+Bielany Wrocławskie;2;rondo;Chomicza;Ryszarda;40902;DOLNOŚLĄSKIE;wrocławski;Kobierzyce;gmina wiejska
+Bielany Wrocławskie;2;ul.;Chomicza;Ryszarda;41359;DOLNOŚLĄSKIE;wrocławski;Kobierzyce;gmina wiejska
+Rzgów;2;park;Mickiewicza;im. Adama;32135;ŁÓDZKIE;łódzki wschodni;Rzgów;miasto
+Rzgów;2;ul.;Mickiewicza;;12734;ŁÓDZKIE;łódzki wschodni;Rzgów;miasto
+Tuszyn;2;ul.;Maja;3;11937;ŁÓDZKIE;łódzki wschodni;Tuszyn;miasto
+Tuszyn;2;os.;Maja;3;11933;ŁÓDZKIE;łódzki wschodni;Tuszyn;miasto
+Opoczno;2;ul.;Jana Pawła II;;07123;ŁÓDZKIE;opoczyński;Opoczno;miasto
+Opoczno;2;os.;Jana Pawła II;;07121;ŁÓDZKIE;opoczyński;Opoczno;miasto
+Pabianice;2;ul.;Piłsudskiego;marsz. Józefa;16274;ŁÓDZKIE;pabianicki;Pabianice;gmina miejska
+Pabianice;2;skwer;Piłsudskiego;marsz. Józefa;16273;ŁÓDZKIE;pabianicki;Pabianice;gmina miejska
+Zamość;2;ul.;Zamoyskiego;Hetmana Jana;25577;LUBELSKIE;Zamość;Zamość;gmina miejska
+Zamość;2;rondo;Zamoyskiego;Hetmana Jana;37516;LUBELSKIE;Zamość;Zamość;gmina miejska
+Zamość;2;ul.;Wyszyńskiego;Prymasa Stefana;25119;LUBELSKIE;Zamość;Zamość;gmina miejska
+Zamość;2;rondo;Wyszyńskiego;Prymasa Stefana;37515;LUBELSKIE;Zamość;Zamość;gmina miejska
+Zamość;2;ul.;Popiełuszki;Ks. Jerzego;48112;LUBELSKIE;Zamość;Zamość;gmina miejska
+Zamość;2;rondo;Popiełuszki;Księdza Jerzego;43216;LUBELSKIE;Zamość;Zamość;gmina miejska
+Kłodawa;3;al.;Maja;1;11921;WIELKOPOLSKIE;kolski;Kłodawa;miasto
+Kłodawa;3;ul.;Maja;3;11937;WIELKOPOLSKIE;kolski;Kłodawa;miasto
+Kłodawa;3;ul.;Maja;3-go;29830;POMORSKIE;gdański;Trąbki Wielkie;gmina wiejska
+Wolbrom;2;os.;Łukasińskiego;;11751;MAŁOPOLSKIE;olkuski;Wolbrom;miasto
+Wolbrom;2;ul.;Łukasińskiego;;11752;MAŁOPOLSKIE;olkuski;Wolbrom;miasto
+Wolbrom;2;os.;Skalska;;19975;MAŁOPOLSKIE;olkuski;Wolbrom;miasto
+Wolbrom;2;ul.;Skalska;;19976;MAŁOPOLSKIE;olkuski;Wolbrom;miasto
+Santok;2;pl.;Promenada Jana Pawła II;;54689;LUBUSKIE;gorzowski;Santok;gmina wiejska
+Santok;2;ul.;Promenada Jana Pawła II;;54688;LUBUSKIE;gorzowski;Santok;gmina wiejska
+Chełmek;2;os.;Paprotnik;;15670;MAŁOPOLSKIE;oświęcimski;Chełmek;miasto
+Chełmek;2;ul.;Paprotnik;;15671;MAŁOPOLSKIE;oświęcimski;Chełmek;miasto
+Kęty;2;ul.;Kościuszki;Tadeusza;09582;MAŁOPOLSKIE;oświęcimski;Kęty;miasto
+Kęty;2;os.;Kościuszki;Tadeusza;09578;MAŁOPOLSKIE;oświęcimski;Kęty;miasto
+Kęty;2;os.;Królickiego;Pułkownika Stanisława;63261;MAŁOPOLSKIE;oświęcimski;Kęty;miasto
+Kęty;2;ul.;Królickiego;Pułkownika Stanisława;63260;MAŁOPOLSKIE;oświęcimski;Kęty;miasto
+Wadowice;2;os.;Wadowity;;23486;MAŁOPOLSKIE;wadowicki;Wadowice;miasto
+Wadowice;2;ul.;Wadowity;Marcina;58671;MAŁOPOLSKIE;wadowicki;Wadowice;miasto
+Rzepin;2;ul.;Mickiewicza;Adama;12740;LUBUSKIE;słubicki;Rzepin;miasto
+Rzepin;2;rondo;Mickiewicza;Adama;12739;LUBUSKIE;słubicki;Rzepin;miasto
+Rzepin;2;ul.;Kilińskiego;Jana;08435;LUBUSKIE;słubicki;Rzepin;miasto
+Rzepin;2;rondo;Kilińskiego;Jana;41864;LUBUSKIE;słubicki;Rzepin;miasto
+Bochnia;2;ul.;Gazaris;;05397;MAŁOPOLSKIE;bocheński;Bochnia;gmina miejska
+Bochnia;2;pl.;Gazaris;;05396;MAŁOPOLSKIE;bocheński;Bochnia;gmina miejska
+Brzesko;2;os.;Świerkowa;;22507;MAŁOPOLSKIE;brzeski;Brzesko;miasto
+Brzesko;2;ul.;Świerkowa;;22508;MAŁOPOLSKIE;brzeski;Brzesko;miasto
+Brzesko;2;os.;Ogrodowa;;14833;MAŁOPOLSKIE;brzeski;Brzesko;miasto
+Brzesko;2;ul.;Ogrodowa;;14834;MAŁOPOLSKIE;brzeski;Brzesko;miasto
+Strzelin;2;ul.;Jana;św.;07113;DOLNOŚLĄSKIE;strzeliński;Strzelin;miasto
+Strzelin;2;pl.;Jana;św.;07112;DOLNOŚLĄSKIE;strzeliński;Strzelin;miasto
+Świdnica;2;pl.;Drzymały;Michała;04316;DOLNOŚLĄSKIE;świdnicki;Świdnica;gmina miejska
+Świdnica;2;ul.;Drzymały;;04314;LUBUSKIE;zielonogórski;Świdnica;gmina wiejska
+Wrocław;2;pl.;Pereca;Icchaka Lejba;15940;DOLNOŚLĄSKIE;Wrocław;Wrocław-Fabryczna;delegatura
+Wrocław;2;ul.;Pereca;Icchaka Lejba;15941;DOLNOŚLĄSKIE;Wrocław;Wrocław-Fabryczna;delegatura
+Wrocław;2;ul.;Rysia;;19295;DOLNOŚLĄSKIE;Wrocław;Wrocław-Fabryczna;delegatura
+Wrocław;2;skwer;Rysia;Zbigniewa;48323;DOLNOŚLĄSKIE;Wrocław;Wrocław-Stare Miasto;delegatura
+Wrocław;2;ul.;Rędzińska;;18670;DOLNOŚLĄSKIE;Wrocław;Wrocław-Fabryczna;delegatura
+Wrocław;2;wyspa;Rędzińska;;18671;DOLNOŚLĄSKIE;Wrocław;Wrocław-Psie Pole;delegatura
+Wrocław;3;ul.;Kościuszki;Tadeusza;09582;DOLNOŚLĄSKIE;Wrocław;Wrocław-Krzyki;delegatura
+Wrocław;3;pl.;Kościuszki;Tadeusza;09580;DOLNOŚLĄSKIE;Wrocław;Wrocław-Stare Miasto;delegatura
+Wrocław;3;ul.;Kościuszki;Tadeusza;09582;DOLNOŚLĄSKIE;Wrocław;Wrocław-Stare Miasto;delegatura
+Wrocław;3;wyb.;Słowackiego;Juliusza;26978;DOLNOŚLĄSKIE;Wrocław;Wrocław-Krzyki;delegatura
+Wrocław;3;al.;Słowackiego;Juliusza;20288;DOLNOŚLĄSKIE;Wrocław;Wrocław-Krzyki;delegatura
+Wrocław;3;al.;Słowackiego;Juliusza;20288;DOLNOŚLĄSKIE;Wrocław;Wrocław-Stare Miasto;delegatura
+Wrocław;3;ul.;Piłsudskiego;marsz. Józefa;16274;DOLNOŚLĄSKIE;Wrocław;Wrocław-Krzyki;delegatura
+Wrocław;3;pl.;Piłsudskiego;marsz. Józefa;16272;DOLNOŚLĄSKIE;Wrocław;Wrocław-Psie Pole;delegatura
+Wrocław;3;ul.;Piłsudskiego;marsz. Józefa;16274;DOLNOŚLĄSKIE;Wrocław;Wrocław-Stare Miasto;delegatura
+Wrocław;2;ul.;Korfantego;Wojciecha;09357;DOLNOŚLĄSKIE;Wrocław;Wrocław-Krzyki;delegatura
+Wrocław;2;skwer;Korfantego;Wojciecha;54609;DOLNOŚLĄSKIE;Wrocław;Wrocław-Krzyki;delegatura
+Wrocław;3;ul.;Zielińskiego;Tadeusza;26073;DOLNOŚLĄSKIE;Wrocław;Wrocław-Krzyki;delegatura
+Wrocław;3;ul.;Zielińskiego;Tadeusza;26073;DOLNOŚLĄSKIE;Wrocław;Wrocław-Stare Miasto;delegatura
+Wrocław;3;skwer;Zielińskiego;ks. Szczepana;53648;DOLNOŚLĄSKIE;Wrocław;Wrocław-Fabryczna;delegatura
+Wrocław;2;pl.;Wróblewskiego;gen. Walerego;29469;DOLNOŚLĄSKIE;Wrocław;Wrocław-Krzyki;delegatura
+Wrocław;2;ul.;Wróblewskiego;Zygmunta;24840;DOLNOŚLĄSKIE;Wrocław;Wrocław-Śródmieście;delegatura
+Wrocław;2;ul.;Powstańców Śląskich;;17366;DOLNOŚLĄSKIE;Wrocław;Wrocław-Krzyki;delegatura
+Wrocław;2;pl.;Powstańców Śląskich;;17365;DOLNOŚLĄSKIE;Wrocław;Wrocław-Krzyki;delegatura
+Wrocław;2;pl.;Mikołaja;św.;12884;DOLNOŚLĄSKIE;Wrocław;Wrocław-Stare Miasto;delegatura
+Wrocław;2;ul.;Mikołaja;św.;12885;DOLNOŚLĄSKIE;Wrocław;Wrocław-Stare Miasto;delegatura
+Wrocław;2;ul.;Bema;gen. Józefa;01014;DOLNOŚLĄSKIE;Wrocław;Wrocław-Śródmieście;delegatura
+Wrocław;2;pl.;Bema;gen. Józefa;01013;DOLNOŚLĄSKIE;Wrocław;Wrocław-Śródmieście;delegatura
+Wrocław;2;ul.;Opatowicka;;15070;DOLNOŚLĄSKIE;Wrocław;Wrocław-Krzyki;delegatura
+Wrocław;2;wyspa;Opatowicka;;15071;DOLNOŚLĄSKIE;Wrocław;Wrocław-Krzyki;delegatura
+Wrocław;2;ul.;Schneidera;ks. Jana;46512;DOLNOŚLĄSKIE;Wrocław;Wrocław-Krzyki;delegatura
+Wrocław;2;skwer;Schneidera;ks. Jana;46511;DOLNOŚLĄSKIE;Wrocław;Wrocław-Krzyki;delegatura
+Wrocław;2;ul.;Kajdasza;Edmunda;49111;DOLNOŚLĄSKIE;Wrocław;Wrocław-Krzyki;delegatura
+Wrocław;2;skwer;Kajdasza;Edmunda;62112;DOLNOŚLĄSKIE;Wrocław;Wrocław-Krzyki;delegatura
+Sulechów;3;ul.;Powstańców Wielkopolskich;;17377;LUBUSKIE;zielonogórski;Sulechów;miasto
+Sulechów;3;park;Powstańców Wielkopolskich;;38274;LUBUSKIE;zielonogórski;Sulechów;miasto
+Sulechów;3;rondo;Powstańców Wielkopolskich;;43311;LUBUSKIE;zielonogórski;Sulechów;miasto
+Sulechów;3;ul.;Kościuszki;;09572;LUBUSKIE;zielonogórski;Sulechów;miasto
+Sulechów;3;park;Kościuszki;im. Tadeusza;38372;LUBUSKIE;zielonogórski;Sulechów;miasto
+Sulechów;3;ul.;Kościuszki;Tadeusza;09582;MAŁOPOLSKIE;krakowski;Kocmyrzów-Luborzyca;gmina wiejska
+Sulechów;2;os.;Zacisze;;25313;LUBUSKIE;zielonogórski;Sulechów;miasto
+Sulechów;2;ul.;Zacisze;;25314;MAŁOPOLSKIE;krakowski;Kocmyrzów-Luborzyca;gmina wiejska
+Legionowo;2;pl.;Kościuszki;Tadeusza;09580;MAZOWIECKIE;legionowski;Legionowo;gmina miejska
+Legionowo;2;ul.;Kościuszki;Tadeusza;09582;MAZOWIECKIE;legionowski;Legionowo;gmina miejska
+Serock;2;ul.;Mickiewicza;Adama;12740;MAZOWIECKIE;legionowski;Serock;miasto
+Serock;2;al.;Mickiewicza;;12730;KUJAWSKO-POMORSKIE;świecki;Pruszcz;obszar wiejski
+Wólka Kozodawska;2;ul.;Herbacianej Róży;;32373;MAZOWIECKIE;piaseczyński;Piaseczno;obszar wiejski
+Wólka Kozodawska;2;rondo;Herbacianej Róży;im.;60562;MAZOWIECKIE;piaseczyński;Piaseczno;obszar wiejski
+Sulejówek;2;rondo;Wyszyńskiego;Kardynała Stefana;47239;MAZOWIECKIE;miński;Sulejówek;gmina miejska
+Sulejówek;2;ul.;Wyszyńskiego;Kardynała;33784;MAZOWIECKIE;miński;Sulejówek;gmina miejska
+Mława;3;ul.;Maja;3;11937;MAZOWIECKIE;mławski;Mława;gmina miejska
+Mława;3;pl.;Maja;3;11935;MAZOWIECKIE;mławski;Mława;gmina miejska
+Mława;3;pl.;Maja;1;11924;MAZOWIECKIE;mławski;Mława;gmina miejska
+Radzymin;2;rondo;Hallera;Generała Józefa;40808;MAZOWIECKIE;wołomiński;Radzymin;miasto
+Radzymin;2;ul.;Hallera;Gen. Józefa;48104;MAZOWIECKIE;wołomiński;Radzymin;miasto
+Tarnów;2;pl.;Kościuszki;Tadeusza;09580;MAŁOPOLSKIE;Tarnów;Tarnów;gmina miejska
+Tarnów;2;ul.;Kościuszki;Tadeusza;09582;MAŁOPOLSKIE;Tarnów;Tarnów;gmina miejska
+Tarnów;2;ul.;Muchy;Wincentego;13474;MAŁOPOLSKIE;Tarnów;Tarnów;gmina miejska
+Tarnów;2;park;Muchy;Harcmistrza Wincentego;30332;MAŁOPOLSKIE;Tarnów;Tarnów;gmina miejska
+Tarnów;2;ul.;Sanguszków;;19497;MAŁOPOLSKIE;Tarnów;Tarnów;gmina miejska
+Tarnów;2;park;Sanguszków;;19496;MAŁOPOLSKIE;Tarnów;Tarnów;gmina miejska
+Tarnów;2;pl.;Sienkiewicza;Henryka;19833;MAŁOPOLSKIE;Tarnów;Tarnów;gmina miejska
+Tarnów;2;ul.;Sienkiewicza;Henryka;19834;MAŁOPOLSKIE;Tarnów;Tarnów;gmina miejska
+Tarnów;2;ul.;Tarnowskiego;Jana;22685;MAŁOPOLSKIE;Tarnów;Tarnów;gmina miejska
+Tarnów;2;rondo;Tarnowskiego;Hetmana Jana;42109;MAŁOPOLSKIE;Tarnów;Tarnów;gmina miejska
+Tarnów;2;park;Kwiatkowskiego;Eugeniusza;37476;MAŁOPOLSKIE;Tarnów;Tarnów;gmina miejska
+Tarnów;2;ul.;Kwiatkowskiego;Eugeniusza;10559;MAŁOPOLSKIE;Tarnów;Tarnów;gmina miejska
+Tarnów;2;ul.;Bema;Generała Józefa;37883;MAŁOPOLSKIE;Tarnów;Tarnów;gmina miejska
+Tarnów;2;pl.;Bema;Generała Józefa;45076;MAŁOPOLSKIE;Tarnów;Tarnów;gmina miejska
+Ciechanów;2;ul.;Dąbrowskiego;Jarosława;03687;MAZOWIECKIE;ciechanowski;Ciechanów;gmina miejska
+Ciechanów;2;park;Dąbrowskiego;Jarosława;03685;MAZOWIECKIE;ciechanowski;Ciechanów;gmina miejska
+Ciechanów;2;park;Konopnickiej;Marii;09184;MAZOWIECKIE;ciechanowski;Ciechanów;gmina miejska
+Ciechanów;2;ul.;Konopnickiej;Marii;09186;MAZOWIECKIE;ciechanowski;Ciechanów;gmina miejska
+Sanok;2;ul.;Beksińskiego;Mateusza;00977;PODKARPACKIE;sanocki;Sanok;gmina miejska
+Sanok;2;rondo;Beksińskiego;Zdzisława;44707;PODKARPACKIE;sanocki;Sanok;gmina miejska
+Wołomin;2;ul.;Piłsudskiego;;16252;MAZOWIECKIE;wołomiński;Wołomin;miasto
+Wołomin;2;skwer;Piłsudskiego;Marszałka Józefa;41834;MAZOWIECKIE;wołomiński;Wołomin;miasto
+Grodzisk Mazowiecki;2;os.;Kresowa;;09910;MAZOWIECKIE;grodziski;Grodzisk Mazowiecki;miasto
+Grodzisk Mazowiecki;2;ul.;Kresowa;;09911;MAZOWIECKIE;grodziski;Grodzisk Mazowiecki;miasto
+Książenice;2;al.;Sosnowa;;30945;MAZOWIECKIE;grodziski;Grodzisk Mazowiecki;obszar wiejski
+Książenice;2;ul.;Sosnowa;;20598;MAZOWIECKIE;grodziski;Grodzisk Mazowiecki;obszar wiejski
+Książenice;2;al.;Wiśniowa;;24411;MAZOWIECKIE;grodziski;Grodzisk Mazowiecki;obszar wiejski
+Książenice;2;ul.;Wiśniowa;;24412;WIELKOPOLSKIE;ostrzeszowski;Grabów nad Prosną;obszar wiejski
+Książenice;2;al.;Jabłoniowa;;36582;MAZOWIECKIE;grodziski;Grodzisk Mazowiecki;obszar wiejski
+Książenice;2;ul.;Jabłoniowa;;06967;WIELKOPOLSKIE;ostrzeszowski;Grabów nad Prosną;obszar wiejski
+Białystok;2;park;Poniatowskiego;im. Księcia Józefa;17104;PODLASKIE;Białystok;Białystok;gmina miejska
+Białystok;2;ul.;Poniatowskiego;Księcia Józefa;17113;PODLASKIE;Białystok;Białystok;gmina miejska
+Białystok;2;ul.;"Fieldorfa ""NILA""";Gen. Augusta Emila;54469;PODLASKIE;Białystok;Białystok;gmina miejska
+Białystok;2;pl.;"Fieldorfa ""NILA""";Gen. Augusta Emila;54470;PODLASKIE;Białystok;Białystok;gmina miejska
+Jakubów;2;ul.;Jakuba Apostoła;Św.;57583;DOLNOŚLĄSKIE;polkowicki;Radwanice;gmina wiejska
+Jakubów;2;pl.;Jakuba Apostoła;Św.;57584;DOLNOŚLĄSKIE;polkowicki;Radwanice;gmina wiejska
+Iłża;2;os.;Zuchowiec;;26270;MAZOWIECKIE;radomski;Iłża;miasto
+Iłża;2;ul.;Zuchowiec;;26271;MAZOWIECKIE;radomski;Iłża;miasto
+Jarosław;2;ul.;Koby;Romana;36672;PODKARPACKIE;jarosławski;Jarosław;gmina miejska
+Jarosław;2;skwer;Koby;im. kpt. Władysława;45871;PODKARPACKIE;jarosławski;Jarosław;gmina miejska
+Jarosław;2;ul.;Zielińskiego;Zygmunta;26076;PODKARPACKIE;jarosławski;Jarosław;gmina miejska
+Jarosław;2;rondo;Zielińskiego;Michała;60290;PODKARPACKIE;jarosławski;Jarosław;gmina miejska
+Krosno;2;ul.;Dywizjonu 303;;04561;PODKARPACKIE;Krosno;Krosno;gmina miejska
+Krosno;2;rondo;Dywizjonu 303;;28799;PODKARPACKIE;Krosno;Krosno;gmina miejska
+Rzeszów;2;pl.;Jana Pawła II;;07122;PODKARPACKIE;Rzeszów;Rzeszów;gmina miejska
+Rzeszów;2;ul.;Jana Pawła II;;07123;PODKARPACKIE;Rzeszów;Rzeszów;gmina miejska
+Ostrołęka;2;ul.;Niedziałkowskiej;Zofii;35347;MAZOWIECKIE;Ostrołęka;Ostrołęka;gmina miejska
+Ostrołęka;2;rondo;Niedziałkowskiej;Zofii;51256;MAZOWIECKIE;Ostrołęka;Ostrołęka;gmina miejska
+Ostrołęka;2;ul.;Siemowita III;Księcia;19822;MAZOWIECKIE;Ostrołęka;Ostrołęka;gmina miejska
+Ostrołęka;2;rondo;Siemowita III;Księcia;51258;MAZOWIECKIE;Ostrołęka;Ostrołęka;gmina miejska
+Ostrołęka;2;ul.;Kuklińskiego;dr. Adama;27503;MAZOWIECKIE;Ostrołęka;Ostrołęka;gmina miejska
+Ostrołęka;2;rondo;Kuklińskiego;płk. Ryszarda;56014;MAZOWIECKIE;Ostrołęka;Ostrołęka;gmina miejska
+Ostrołęka;2;ul.;Bony;Królowej;10000;MAZOWIECKIE;Ostrołęka;Ostrołęka;gmina miejska
+Ostrołęka;2;rondo;Bony;im. Królowej;61244;MAZOWIECKIE;Ostrołęka;Ostrołęka;gmina miejska
+Płock;2;ul.;Mościckiego;Prezydenta Ignacego;13391;MAZOWIECKIE;Płock;Płock;gmina miejska
+Płock;2;pl.;Mościckiego;mjr. Janusza;27049;MAZOWIECKIE;Płock;Płock;gmina miejska
+Horyniec-Zdrój;2;os.;Dąbrowskiego;Henryka;03677;PODKARPACKIE;lubaczowski;Horyniec-Zdrój;gmina wiejska
+Horyniec-Zdrój;2;ul.;Dąbrowskiego;Henryka;03678;PODKARPACKIE;lubaczowski;Horyniec-Zdrój;gmina wiejska
+Nisko;2;ul.;Wolności;;24687;PODKARPACKIE;niżański;Nisko;miasto
+Nisko;2;pl.;Wolności;;24685;PODKARPACKIE;niżański;Nisko;miasto
+Pruszcz Gdański;2;ul.;Lotników Polskich;;11282;POMORSKIE;gdański;Pruszcz Gdański;gmina miejska
+Pruszcz Gdański;2;rondo;Lotników Polskich;;46034;POMORSKIE;gdański;Pruszcz Gdański;gmina miejska
+Sierpc;2;ul.;Andersa;gen. Władysława;00285;MAZOWIECKIE;sierpecki;Sierpc;gmina miejska
+Sierpc;2;park;Andersa;Władysława;51436;MAZOWIECKIE;sierpecki;Sierpc;gmina miejska
+Radom;2;ul.;Kościuszki;Tadeusza;09582;MAZOWIECKIE;Radom;Radom;gmina miejska
+Radom;2;park;Kościuszki;Tadeusza;09579;MAZOWIECKIE;Radom;Radom;gmina miejska
+Radom;2;ul.;Malczewskiego;Jacka;12037;MAZOWIECKIE;Radom;Radom;gmina miejska
+Radom;2;park;Malczewskiego;Jacka;12036;MAZOWIECKIE;Radom;Radom;gmina miejska
+Bielsk Podlaski;2;ul.;Jana Pawła II;;07123;PODLASKIE;bielski;Bielsk Podlaski;gmina miejska
+Bielsk Podlaski;2;pl.;Jana Pawła II;im.;32703;PODLASKIE;bielski;Bielsk Podlaski;gmina miejska
+Leszno;2;ul.;Słowackiego;Juliusza;20291;MAZOWIECKIE;warszawski zachodni;Leszno;gmina wiejska
+Leszno;2;al.;Słowackiego;Juliusza;20288;WIELKOPOLSKIE;Leszno;Leszno;gmina miejska
+Siedlce;2;skwer;Jana Pawła II;;30701;MAZOWIECKIE;Siedlce;Siedlce;gmina miejska
+Siedlce;2;ul.;Jana Pawła II;;07123;MAZOWIECKIE;Siedlce;Siedlce;gmina miejska
+Wejherowo;2;ul.;Pruszkowskiego;płk. Kazimierza;17594;POMORSKIE;wejherowski;Wejherowo;gmina miejska
+Wejherowo;2;rondo;Pruszkowskiego;płk. Kazimierza;49435;POMORSKIE;wejherowski;Wejherowo;gmina miejska
+Wejherowo;2;ul.;Majkowskiego;Aleksandra;11976;POMORSKIE;wejherowski;Wejherowo;gmina miejska
+Wejherowo;2;park;Majkowskiego;im. Dr.;63204;POMORSKIE;wejherowski;Wejherowo;gmina miejska
+Gliwice;2;park;Bolesława Chrobrego;;01740;ŚLĄSKIE;Gliwice;Gliwice;gmina miejska
+Gliwice;2;ul.;Bolesława Chrobrego;;01742;ŚLĄSKIE;Gliwice;Gliwice;gmina miejska
+Gliwice;2;park;Chopina;Fryderyka;02846;ŚLĄSKIE;Gliwice;Gliwice;gmina miejska
+Gliwice;2;ul.;Chopina;Fryderyka;02849;ŚLĄSKIE;Gliwice;Gliwice;gmina miejska
+Gliwice;2;pl.;Mickiewicza;Adama;12738;ŚLĄSKIE;Gliwice;Gliwice;gmina miejska
+Gliwice;2;ul.;Mickiewicza;Adama;12740;ŚLĄSKIE;Gliwice;Gliwice;gmina miejska
+Katowice;2;ul.;Herberta;Zbigniewa;31283;ŚLĄSKIE;Katowice;Katowice;gmina miejska
+Katowice;2;pl.;Herberta;Św.;63016;ŚLĄSKIE;Katowice;Katowice;gmina miejska
+Katowice;2;ul.;Szramka;Księdza Emila;48268;ŚLĄSKIE;Katowice;Katowice;gmina miejska
+Katowice;2;pl.;Szramka;im. Ks. Emila;63023;ŚLĄSKIE;Katowice;Katowice;gmina miejska
+Gościcino;2;al.;Jarzębinowa;;07289;POMORSKIE;wejherowski;Wejherowo;gmina wiejska
+Gościcino;2;ul.;Jarzębinowa;;07290;POMORSKIE;wejherowski;Wejherowo;gmina wiejska
+Kościerzyna;2;ul.;Rynek;;19253;POMORSKIE;kościerski;Kościerzyna;gmina miejska
+Kościerzyna;2;pl.;Rynek;;19251;POMORSKIE;kościerski;Kościerzyna;gmina miejska
+Kościerzyna;2;ul.;Wierzysko;;24194;POMORSKIE;kościerski;Kościerzyna;gmina miejska
+Kościerzyna;2;rondo;Wierzysko;;54717;POMORSKIE;kościerski;Kościerzyna;gmina miejska
+Kościerzyna;2;ul.;Wybickiego;Józefa;24908;POMORSKIE;kościerski;Kościerzyna;gmina miejska
+Kościerzyna;2;rondo;Wybickiego;im. Józefa;50802;POMORSKIE;kościerski;Kościerzyna;gmina miejska
+Kościerzyna;2;rondo;Piłsudskiego;Marszałka Józefa;41557;POMORSKIE;kościerski;Kościerzyna;gmina miejska
+Kościerzyna;2;ul.;Piłsudskiego;Marsz. Józefa;48858;POMORSKIE;kościerski;Kościerzyna;gmina miejska
+Kwidzyn;2;ul.;Maja;3;11937;POMORSKIE;kwidzyński;Kwidzyn;gmina miejska
+Kwidzyn;2;rondo;Maja;3;36916;POMORSKIE;kwidzyński;Kwidzyn;gmina miejska
+Wysokie Mazowieckie;2;rondo;Wyszyńskiego;Kardynała Stefana;47239;PODLASKIE;wysokomazowiecki;Wysokie Mazowieckie;gmina miejska
+Wysokie Mazowieckie;2;ul.;Wyszyńskiego;Kardynała;33784;PODLASKIE;wysokomazowiecki;Wysokie Mazowieckie;gmina miejska
+Orzesze;2;ul.;Wawrzyńca;św.;23768;ŚLĄSKIE;mikołowski;Orzesze;gmina miejska
+Orzesze;2;rondo;Wawrzyńca;św.;41095;ŚLĄSKIE;mikołowski;Orzesze;gmina miejska
+Rybnik;3;ul.;Maja;1;11926;ŚLĄSKIE;Rybnik;Rybnik;gmina miejska
+Rybnik;3;ul.;Maja;3;11937;ŚLĄSKIE;Rybnik;Rybnik;gmina miejska
+Rybnik;3;park;Maja;;63138;ŚLĄSKIE;Rybnik;Rybnik;gmina miejska
+Sandomierz;2;ul.;Króla;por. Tadeusza;09975;ŚWIĘTOKRZYSKIE;sandomierski;Sandomierz;gmina miejska
+Sandomierz;2;rondo;Króla;płk. pil. Wacława;55349;ŚWIĘTOKRZYSKIE;sandomierski;Sandomierz;gmina miejska
+Sandomierz;2;al.;Jana Pawła II;;07120;ŚWIĘTOKRZYSKIE;sandomierski;Sandomierz;gmina miejska
+Sandomierz;2;pl.;Jana Pawła II;;07122;ŚWIĘTOKRZYSKIE;sandomierski;Sandomierz;gmina miejska
+Pilica;2;ul.;Mickiewicza;;12734;ŚLĄSKIE;zawierciański;Pilica;miasto
+Pilica;2;pl.;Mickiewicza;;12733;ŚLĄSKIE;zawierciański;Pilica;miasto
+Kielce;2;ul.;Jana Pawła II;;07123;ŚWIĘTOKRZYSKIE;Kielce;Kielce;gmina miejska
+Kielce;2;rondo;Jana Pawła II;Świętego;60220;ŚWIĘTOKRZYSKIE;Kielce;Kielce;gmina miejska
+Kielce;2;ul.;Maja;1;11926;ŚWIĘTOKRZYSKIE;Kielce;Kielce;gmina miejska
+Kielce;2;rondo;Maja;Stefana;60222;ŚWIĘTOKRZYSKIE;Kielce;Kielce;gmina miejska
+Kielce;2;ul.;Żeromskiego;Stefana;26469;ŚWIĘTOKRZYSKIE;Kielce;Kielce;gmina miejska
+Kielce;2;skwer;Żeromskiego;Stefana;44582;ŚWIĘTOKRZYSKIE;Kielce;Kielce;gmina miejska
+Kielce;2;ul.;Dygasińskiego;Adolfa;04493;ŚWIĘTOKRZYSKIE;Kielce;Kielce;gmina miejska
+Kielce;2;park;Dygasińskiego;Adolfa;47141;ŚWIĘTOKRZYSKIE;Kielce;Kielce;gmina miejska
+Kielce;2;os.;Sieje;;47142;ŚWIĘTOKRZYSKIE;Kielce;Kielce;gmina miejska
+Kielce;2;ul.;Sieje;;45803;ŚWIĘTOKRZYSKIE;Kielce;Kielce;gmina miejska
+Kielce;2;ul.;Piłsudskiego;Marszałka Józefa;36029;ŚWIĘTOKRZYSKIE;Kielce;Kielce;gmina miejska
+Kielce;2;pl.;Piłsudskiego;Marszałka Józefa;39388;ŚWIĘTOKRZYSKIE;Kielce;Kielce;gmina miejska
+Kielce;2;ul.;Kopernika;Mikołaja;09282;ŚWIĘTOKRZYSKIE;Kielce;Kielce;gmina miejska
+Kielce;2;skwer;Kopernika;Mikołaja;56905;ŚWIĘTOKRZYSKIE;Kielce;Kielce;gmina miejska
+Sosnowiec;2;rondo;Jana Pawła II;;32104;ŚLĄSKIE;Sosnowiec;Sosnowiec;gmina miejska
+Sosnowiec;2;pl.;Jana Pawła II;Papieża;07126;ŚLĄSKIE;Sosnowiec;Sosnowiec;gmina miejska
+Tychy;2;pl.;Czarnieckiego;Stefana;03282;ŚLĄSKIE;Tychy;Tychy;gmina miejska
+Tychy;2;ul.;Czarnieckiego;Stefana;03283;ŚLĄSKIE;Tychy;Tychy;gmina miejska
+Tychy;2;ul.;Curie-Skłodowskiej;M.;42841;ŚLĄSKIE;Tychy;Tychy;gmina miejska
+Tychy;2;pl.;Curie-Skłodowskiej;M.;34100;ŚLĄSKIE;Tychy;Tychy;gmina miejska
+Tychy;2;ul.;Szkatuły;Księdza Leona;40664;ŚLĄSKIE;Tychy;Tychy;gmina miejska
+Tychy;2;rondo;Szkatuły;ks. Leona;56504;ŚLĄSKIE;Tychy;Tychy;gmina miejska
+Działdowo;2;ul.;Wolności;;24687;WARMIŃSKO-MAZURSKIE;działdowski;Działdowo;gmina miejska
+Działdowo;2;rondo;Wolności;;24686;WARMIŃSKO-MAZURSKIE;działdowski;Działdowo;gmina miejska
+Ełk;2;ul.;Jana Pawła II;;07123;WARMIŃSKO-MAZURSKIE;ełcki;Ełk;gmina miejska
+Ełk;2;pl.;Jana Pawła II;;07122;WARMIŃSKO-MAZURSKIE;ełcki;Ełk;gmina miejska
+Ełk;2;ul.;Kopernika;Mikołaja;09282;WARMIŃSKO-MAZURSKIE;ełcki;Ełk;gmina miejska
+Ełk;2;park;Kopernika;Mikołaja;48653;WARMIŃSKO-MAZURSKIE;ełcki;Ełk;gmina miejska
+Bielsko-Biała;2;pl.;Mickiewicza;Adama;12738;ŚLĄSKIE;Bielsko-Biała;Bielsko-Biała;gmina miejska
+Bielsko-Biała;2;ul.;Mickiewicza;Adama;12740;ŚLĄSKIE;Bielsko-Biała;Bielsko-Biała;gmina miejska
+Busko-Zdrój;2;ul.;Kościuszki;Tadeusza;09582;ŚWIĘTOKRZYSKIE;buski;Busko-Zdrój;miasto
+Busko-Zdrój;2;os.;Kościuszki;Tadeusza;09578;ŚWIĘTOKRZYSKIE;buski;Busko-Zdrój;miasto
+Bartosze;2;os.;Leszczynowa Górka;;36193;WARMIŃSKO-MAZURSKIE;ełcki;Ełk;gmina wiejska
+Bartosze;2;ul.;Leszczynowa Górka;;39218;WARMIŃSKO-MAZURSKIE;ełcki;Ełk;gmina wiejska
+Bytom;2;ul.;Niepodległości;;14203;ŚLĄSKIE;Bytom;Bytom;gmina miejska
+Bytom;2;pl.;Niepodległości;;14201;ŚLĄSKIE;Bytom;Bytom;gmina miejska
+Bytom;2;pl.;Pokoju;;16941;ŚLĄSKIE;Bytom;Bytom;gmina miejska
+Bytom;2;ul.;Pokoju;;16942;ŚLĄSKIE;Bytom;Bytom;gmina miejska
+Bytom;2;ul.;Drzymały;Michała;04317;ŚLĄSKIE;Bytom;Bytom;gmina miejska
+Bytom;2;pl.;Drzymały;Wojciecha;31839;ŚLĄSKIE;Bytom;Bytom;gmina miejska
+Bytom;2;pl.;Żeromskiego;Stefana;26468;ŚLĄSKIE;Bytom;Bytom;gmina miejska
+Bytom;2;ul.;Żeromskiego;Stefana;26469;ŚLĄSKIE;Bytom;Bytom;gmina miejska
+Bytom;2;ul.;Powstańców Śląskich;;17366;ŚLĄSKIE;Bytom;Bytom;gmina miejska
+Bytom;2;pl.;Powstańców Śląskich;;17365;ŚLĄSKIE;Bytom;Bytom;gmina miejska
+Bytom;2;pl.;Kościuszki;Tadeusza;09580;ŚLĄSKIE;Bytom;Bytom;gmina miejska
+Bytom;2;ul.;Kościuszki;Tadeusza;09582;ŚLĄSKIE;Bytom;Bytom;gmina miejska
+Bytom;2;pl.;Sikorskiego;Generała Władysława;46322;ŚLĄSKIE;Bytom;Bytom;gmina miejska
+Bytom;2;ul.;Sikorskiego;Generała Władysława;38378;ŚLĄSKIE;Bytom;Bytom;gmina miejska
+Masłów Pierwszy;2;ul.;Jana Pawła II;;07123;ŚWIĘTOKRZYSKIE;kielecki;Masłów;gmina wiejska
+Masłów Pierwszy;2;pl.;Jana Pawła II;Świętego;46894;ŚWIĘTOKRZYSKIE;kielecki;Masłów;gmina wiejska
+Trzcianka;2;os.;Lelewela;Joachima;31932;WIELKOPOLSKIE;czarnkowsko-trzcianecki;Trzcianka;miasto
+Trzcianka;2;ul.;Lelewela;Joachima;10793;WIELKOPOLSKIE;czarnkowsko-trzcianecki;Trzcianka;miasto
+Trzcianka;2;os.;Słowackiego;Juliusza;20289;WIELKOPOLSKIE;czarnkowsko-trzcianecki;Trzcianka;miasto
+Trzcianka;2;ul.;Słowackiego;Juliusza;20291;WIELKOPOLSKIE;czarnkowsko-trzcianecki;Trzcianka;miasto
+Trzcianka;2;os.;Grottgera;Artura;06205;WIELKOPOLSKIE;czarnkowsko-trzcianecki;Trzcianka;miasto
+Trzcianka;2;ul.;Grottgera;Artura;06206;WIELKOPOLSKIE;czarnkowsko-trzcianecki;Trzcianka;miasto
+Sławno;2;pl.;Gierymskiego;Aleksandra;05509;ZACHODNIOPOMORSKIE;sławieński;Sławno;gmina miejska
+Sławno;2;ul.;Gierymskiego;Aleksandra;05510;ZACHODNIOPOMORSKIE;sławieński;Sławno;gmina miejska
+Chorzów;2;pl.;Mickiewicza;Adama;12738;ŚLĄSKIE;Chorzów;Chorzów;gmina miejska
+Chorzów;2;ul.;Mickiewicza;Adama;12740;ŚLĄSKIE;Chorzów;Chorzów;gmina miejska
+Chorzów;2;pl.;Kopernika;Mikołaja;09281;ŚLĄSKIE;Chorzów;Chorzów;gmina miejska
+Chorzów;2;ul.;Kopernika;Mikołaja;09282;ŚLĄSKIE;Chorzów;Chorzów;gmina miejska
+Poznań;2;ul.;Kurpińskiego;Karola;10465;WIELKOPOLSKIE;Poznań;Poznań-Stare Miasto;delegatura
+Poznań;2;park;Kurpińskiego;im. Karola;48671;WIELKOPOLSKIE;Poznań;Poznań-Nowe Miasto;delegatura
+Poznań;2;os.;Pod Lipami;;16636;WIELKOPOLSKIE;Poznań;Poznań-Stare Miasto;delegatura
+Poznań;2;al.;Pod Lipami;;16635;WIELKOPOLSKIE;Poznań;Poznań-Stare Miasto;delegatura
+Poznań;3;pl.;Mickiewicza;Adama;12738;WIELKOPOLSKIE;Poznań;Poznań-Stare Miasto;delegatura
+Poznań;3;park;Mickiewicza;Adama;12737;WIELKOPOLSKIE;Poznań;Poznań-Jeżyce;delegatura
+Poznań;3;ul.;Mickiewicza;Adama;12740;WIELKOPOLSKIE;Poznań;Poznań-Jeżyce;delegatura
+Poznań;2;ul.;Nowakowskiego;Stanisława;14358;WIELKOPOLSKIE;Poznań;Poznań-Wilda;delegatura
+Poznań;2;pl.;Nowakowskiego;Kazimierza;14354;WIELKOPOLSKIE;Poznań;Poznań-Grunwald;delegatura
+Poznań;2;ul.;Rataja;Macieja;18469;WIELKOPOLSKIE;Poznań;Poznań-Stare Miasto;delegatura
+Poznań;2;skwer;Rataja;Franciszka;46668;WIELKOPOLSKIE;Poznań;Poznań-Stare Miasto;delegatura
+Poznań;2;ul.;Maciejewskiego;Jarosława;11839;WIELKOPOLSKIE;Poznań;Poznań-Stare Miasto;delegatura
+Poznań;2;park;Maciejewskiego;Romana;63297;WIELKOPOLSKIE;Poznań;Poznań-Stare Miasto;delegatura
+Poznań;2;ul.;Nowaka;Alojzego;14347;WIELKOPOLSKIE;Poznań;Poznań-Wilda;delegatura
+Poznań;2;skwer;Nowaka;Kazimierza;44875;WIELKOPOLSKIE;Poznań;Poznań-Grunwald;delegatura
+Poznań;2;ul.;Kwiatkowskiego;Eugeniusza;10559;WIELKOPOLSKIE;Poznań;Poznań-Wilda;delegatura
+Poznań;2;skwer;Kwiatkowskiego;Milana;56498;WIELKOPOLSKIE;Poznań;Poznań-Nowe Miasto;delegatura
+Poznań;2;ul.;Strzeleckiego;Pawła;27044;WIELKOPOLSKIE;Poznań;Poznań-Nowe Miasto;delegatura
+Poznań;2;park;Strzeleckiego;Pawła Edmunda;63303;WIELKOPOLSKIE;Poznań;Poznań-Nowe Miasto;delegatura
+Poznań;2;ul.;Heweliusza;;06642;WIELKOPOLSKIE;Poznań;Poznań-Grunwald;delegatura
+Poznań;2;park;Heweliusza;Astronomiczny Jana;60766;WIELKOPOLSKIE;Poznań;Poznań-Grunwald;delegatura
+Poznań;2;ul.;Wieniawskiego;Henryka;24123;WIELKOPOLSKIE;Poznań;Poznań-Stare Miasto;delegatura
+Poznań;2;park;Wieniawskiego;Henryka;63292;WIELKOPOLSKIE;Poznań;Poznań-Stare Miasto;delegatura
+Poznań;2;os.;Kopernika;Mikołaja;09280;WIELKOPOLSKIE;Poznań;Poznań-Grunwald;delegatura
+Poznań;2;ul.;Kopernika;Mikołaja;09282;WIELKOPOLSKIE;Poznań;Poznań-Stare Miasto;delegatura
+Poznań;2;ul.;Asnyka;Adama;00470;WIELKOPOLSKIE;Poznań;Poznań-Jeżyce;delegatura
+Poznań;2;pl.;Asnyka;Adama;00469;WIELKOPOLSKIE;Poznań;Poznań-Jeżyce;delegatura
+Poznań;2;ul.;Janickiego;Klemensa;07157;WIELKOPOLSKIE;Poznań;Poznań-Jeżyce;delegatura
+Poznań;2;skwer;Janickiego;Czesława;55375;WIELKOPOLSKIE;Poznań;Poznań-Jeżyce;delegatura
+Poznań;2;park;Kasprowicza;Jana;08151;WIELKOPOLSKIE;Poznań;Poznań-Grunwald;delegatura
+Poznań;2;ul.;Kasprowicza;Jana;08153;WIELKOPOLSKIE;Poznań;Poznań-Jeżyce;delegatura
+Poznań;2;ul.;Dąbrowskiego;Jana Henryka;03682;WIELKOPOLSKIE;Poznań;Poznań-Jeżyce;delegatura
+Poznań;2;park;Dąbrowskiego;Generała Henryka;63294;WIELKOPOLSKIE;Poznań;Poznań-Stare Miasto;delegatura
+Poznań;3;rondo;Rataje;;18473;WIELKOPOLSKIE;Poznań;Poznań-Nowe Miasto;delegatura
+Poznań;3;ul.;Rataje;;18474;WIELKOPOLSKIE;Poznań;Poznań-Nowe Miasto;delegatura
+Poznań;3;park;Rataje;;59633;WIELKOPOLSKIE;Poznań;Poznań-Nowe Miasto;delegatura
+Poznań;2;ul.;Rzewuskiego;Wacława;19359;WIELKOPOLSKIE;Poznań;Poznań-Nowe Miasto;delegatura
+Poznań;2;skwer;Rzewuskiego;Andrzeja;57350;WIELKOPOLSKIE;Poznań;Poznań-Stare Miasto;delegatura
+Poznań;2;rondo;Śródka;;22425;WIELKOPOLSKIE;Poznań;Poznań-Nowe Miasto;delegatura
+Poznań;2;ul.;Śródka;;22426;WIELKOPOLSKIE;Poznań;Poznań-Nowe Miasto;delegatura
+Poznań;2;ul.;Chopina;Fryderyka;02849;WIELKOPOLSKIE;Poznań;Poznań-Stare Miasto;delegatura
+Poznań;2;park;Chopina;Fryderyka;02846;WIELKOPOLSKIE;Poznań;Poznań-Stare Miasto;delegatura
+Poznań;2;rondo;Żegrze;;26429;WIELKOPOLSKIE;Poznań;Poznań-Nowe Miasto;delegatura
+Poznań;2;ul.;Żegrze;;26430;WIELKOPOLSKIE;Poznań;Poznań-Nowe Miasto;delegatura
+Poznań;2;ul.;Jana Pawła II;;07123;WIELKOPOLSKIE;Poznań;Poznań-Nowe Miasto;delegatura
+Poznań;2;park;Jana Pawła II;;43247;WIELKOPOLSKIE;Poznań;Poznań-Wilda;delegatura
+Poznań;2;os.;Tysiąclecia;;23267;WIELKOPOLSKIE;Poznań;Poznań-Nowe Miasto;delegatura
+Poznań;2;park;Tysiąclecia;;23268;WIELKOPOLSKIE;Poznań;Poznań-Nowe Miasto;delegatura
+Poznań;2;ul.;Krzesiny;;10117;WIELKOPOLSKIE;Poznań;Poznań-Nowe Miasto;delegatura
+Poznań;2;rondo;Krzesiny;;55434;WIELKOPOLSKIE;Poznań;Poznań-Nowe Miasto;delegatura
+Szamotuły;2;al.;Maja;1;11921;WIELKOPOLSKIE;szamotulski;Szamotuły;miasto
+Szamotuły;2;ul.;Maja;3;11937;WIELKOPOLSKIE;szamotulski;Szamotuły;miasto
+Koło;2;pl.;Narutowicza;Gabriela;14016;WIELKOPOLSKIE;kolski;Koło;gmina miejska
+Koło;2;ul.;Narutowicza;Gabriela;14018;WIELKOPOLSKIE;kolski;Koło;gmina miejska
+Kajkowo;2;droga;Widok;;53329;WARMIŃSKO-MAZURSKIE;ostródzki;Ostróda;gmina wiejska
+Kajkowo;2;ul.;Widok;;24011;WARMIŃSKO-MAZURSKIE;ostródzki;Ostróda;gmina wiejska
+Szczecin;2;pl.;Szarych Szeregów;;21786;ZACHODNIOPOMORSKIE;Szczecin;Szczecin;gmina miejska
+Szczecin;2;ul.;Szarych Szeregów;;21787;ZACHODNIOPOMORSKIE;Szczecin;Szczecin;gmina miejska
+Szczecin;2;ul.;Witosa;Wincentego;24459;ZACHODNIOPOMORSKIE;Szczecin;Szczecin;gmina miejska
+Szczecin;2;pl.;Witosa;Wincentego;24458;ZACHODNIOPOMORSKIE;Szczecin;Szczecin;gmina miejska
+Wałbrzych;2;pl.;Lelewela;Joachima;10792;DOLNOŚLĄSKIE;Wałbrzych;Wałbrzych;gmina miejska
+Wałbrzych;2;ul.;Lelewela;Joachima;10793;DOLNOŚLĄSKIE;Wałbrzych;Wałbrzych;gmina miejska
+Wałbrzych;2;skwer;Sybiraków;;21640;DOLNOŚLĄSKIE;Wałbrzych;Wałbrzych;gmina miejska
+Wałbrzych;2;ul.;Sybiraków;;21641;DOLNOŚLĄSKIE;Wałbrzych;Wałbrzych;gmina miejska
+Łobez;2;pl.;Kościuszki;;09569;ZACHODNIOPOMORSKIE;łobeski;Łobez;miasto
+Łobez;2;ul.;Kościuszki;;09572;ZACHODNIOPOMORSKIE;łobeski;Łobez;miasto
+Kołobrzeg;2;park;Dywizji Piechoty;im. 3;04549;ZACHODNIOPOMORSKIE;kołobrzeski;Kołobrzeg;gmina miejska
+Kołobrzeg;2;ul.;Dywizji Piechoty;6;04547;ZACHODNIOPOMORSKIE;kołobrzeski;Kołobrzeg;gmina miejska
+Kołobrzeg;2;park;Fredry;im. Aleksandra;05174;ZACHODNIOPOMORSKIE;kołobrzeski;Kołobrzeg;gmina miejska
+Kołobrzeg;2;ul.;Fredry;Aleksandra;05172;ZACHODNIOPOMORSKIE;kołobrzeski;Kołobrzeg;gmina miejska
+Kołobrzeg;2;pl.;Marca;18;12254;ZACHODNIOPOMORSKIE;kołobrzeski;Kołobrzeg;gmina miejska
+Kołobrzeg;2;park;Marca;18;12253;ZACHODNIOPOMORSKIE;kołobrzeski;Kołobrzeg;gmina miejska
+Kalisz;2;ul.;"Roweckiego ""Grota""";Gen. Stefana;49232;WIELKOPOLSKIE;Kalisz;Kalisz;gmina miejska
+Kalisz;2;skwer;"Roweckiego ""Grota""";Generała Stefana;43863;WIELKOPOLSKIE;Kalisz;Kalisz;gmina miejska
+Kalisz;2;ul.;Fibigera;Gustawa Arnolda;51554;WIELKOPOLSKIE;Kalisz;Kalisz;gmina miejska
+Kalisz;2;skwer;Fibigera;Gustawa Arnolda;51165;WIELKOPOLSKIE;Kalisz;Kalisz;gmina miejska
+Świnoujście;2;ul.;Chodorowskiej;Anny Beaty;52283;ZACHODNIOPOMORSKIE;Świnoujście;Świnoujście;gmina miejska
+Świnoujście;2;skwer;Chodorowskiej;Anny Beaty;36756;ZACHODNIOPOMORSKIE;Świnoujście;Świnoujście;gmina miejska
+Mieczewo;2;ul.;Przy Lesie;;17826;WIELKOPOLSKIE;poznański;Mosina;obszar wiejski
+Mieczewo;2;os.;Przy Lesie;;33169;WIELKOPOLSKIE;poznański;Mosina;obszar wiejski
+Łaszczów;2;pl.;Łaszcza;Aleksandra;11535;LUBELSKIE;tomaszowski;Łaszczów;miasto
+Łaszczów;2;ul.;Łaszcza;Aleksandra;55615;LUBELSKIE;tomaszowski;Łaszczów;miasto
+Kórnik;2;ul.;Zamoyskiego;Władysława;25581;WIELKOPOLSKIE;poznański;Kórnik;miasto
+Kórnik;2;skwer;Zamoyskiego;im. Władysława hr.;62132;WIELKOPOLSKIE;poznański;Kórnik;miasto
+Września;2;ul.;Abrahama;gen. Romana;00091;WIELKOPOLSKIE;wrzesiński;Września;miasto
+Września;2;rondo;Abrahama;gen. dr. Romana;55442;WIELKOPOLSKIE;wrzesiński;Września;miasto
+Września;2;ul.;Prądzyńskiego;gen. Ignacego;17474;WIELKOPOLSKIE;wrzesiński;Września;miasto
+Września;2;rondo;Prądzyńskiego;Andrzeja;56050;WIELKOPOLSKIE;wrzesiński;Września;miasto
+Września;2;rondo;Niepodległości;;34082;WIELKOPOLSKIE;wrzesiński;Września;miasto
+Września;2;ul.;Niepodległości;;14203;WIELKOPOLSKIE;wrzesiński;Września;miasto
+Nowe;2;os.;700-lecia;;00070;KUJAWSKO-POMORSKIE;świecki;Nowe;miasto
+Nowe;2;ul.;700-lecia;;00072;KUJAWSKO-POMORSKIE;świecki;Nowe;miasto
+Swarzędz;2;ul.;Fiedlera;Arkadego;04970;WIELKOPOLSKIE;poznański;Swarzędz;miasto
+Swarzędz;2;rondo;Fiedlera;Floriana;48502;WIELKOPOLSKIE;poznański;Swarzędz;miasto
+Kobylnica;2;rondo;Mikołajczyka;im. Stanisława;43760;WIELKOPOLSKIE;poznański;Swarzędz;obszar wiejski
+Kobylnica;2;ul.;Mikołajczyka;St.;33507;POMORSKIE;słupski;Kobylnica;miasto
+Szczawnica;2;ul.;Połoniny;;17066;MAŁOPOLSKIE;nowotarski;Szczawnica;miasto
+Szczawnica;2;os.;Połoniny;;17065;MAŁOPOLSKIE;nowotarski;Szczawnica;miasto
+Jedlnia-Letnisko;2;pl.;Piłsudskiego;;16251;MAZOWIECKIE;radomski;Jedlnia-Letnisko;miasto
+Jedlnia-Letnisko;2;ul.;Piłsudskiego;;16252;MAZOWIECKIE;radomski;Jedlnia-Letnisko;miasto
+Wadlew;2;pl.;Burskiego;ks. Jarosława;44207;ŁÓDZKIE;bełchatowski;Drużbice;gmina wiejska
+Wadlew;2;rondo;Burskiego;ks. Jarosława;45902;ŁÓDZKIE;bełchatowski;Drużbice;gmina wiejska
+Kiernozia;2;os.;Kościuszki;Tadeusza;09578;ŁÓDZKIE;łowicki;Kiernozia;miasto
+Kiernozia;2;ul.;Kościuszki;Tadeusza;09582;ŁÓDZKIE;łowicki;Kiernozia;miasto

@@ -1,0 +1,29 @@
+TC_ID;INPUT_CITY;INPUT_STREET;INPUT_POSTAL_CODE;INPUT_BUILDING_NUMBER;EXPECTED_CITY;EXPECTED_STREET;EXPECTED_POSTAL_CODE;EXPECTED_VERIFICATION_STATUS;EXPECTED_WOJEWODZTWO;EXPECTED_POWIAT;EXPECTED_GMINA;EXPECTED_CECHA;NOTES
+TC-001;"";"Warszawa, Aleje Jerozolimskie";"";"";Warszawa;Aleje Jerozolimskie;"";Verified;MAZOWIECKIE;Warszawa;Warszawa;ul.;Rozdzielenie formatu City, Street
+TC-002;"";"Kraków ,  ul. Floriańska";"";"";Kraków;ul. Floriańska;"";Verified;MAŁOPOLSKIE;Kraków;Kraków;ul.;Format z dodatkowymi spacjami
+TC-003;Warszawa;"Warszawa Aleje Jerozolimskie";"";"";Warszawa;Warszawa Aleje Jerozolimskie;"";Verified;MAZOWIECKIE;Warszawa;Warszawa;ul.;Brak przecinka - nie rozdzielać
+TC-005;Warszawa;Marszałkowska;00-001;"";Warszawa;Marszałkowska;00-001;Verified;MAZOWIECKIE;Warszawa;Warszawa;ul.;Jednoznaczne dopasowanie
+TC-006;warszawa;Marszałkowska;"";"";Warszawa;Marszałkowska;"";Verified;MAZOWIECKIE;Warszawa;Warszawa;ul.;Małe litery
+TC-007;Warszwa;Marszałkowska;00-001;"";Warszawa;Marszałkowska;00-001;Verified;MAZOWIECKIE;Warszawa;Warszawa;ul.;Błąd ortograficzny
+TC-009;Dąbrowa;Lipowa;"";"";Dąbrowa;Lipowa;"";InVerification;"";"";"";ul.;Wieloznaczność - 2 województwa
+TC-012;Lublin;Krakowskie Przedmieście;20-001;"";Lublin;Krakowskie Przedmieście;20-001;Verified;LUBELSKIE;Lublin;Lublin;ul.;Jednoznaczna ulica
+TC-013;Chełm;Żwirki i Wigury;"";"";Chełm;Żwirki i Wigury;"";InVerification;LUBELSKIE;Chełm;Chełm;ul.;Wieloznaczność ul. vs pl.
+TC-014;Lublin;Dmowskiego;"";"";Lublin;Dmowskiego;"";InVerification;LUBELSKIE;Lublin;Lublin;ul.;Wieloznaczność ul. vs rondo
+TC-015;Tomaszów Mazowiecki;Górna;"";"";Tomaszów Mazowiecki;Górna;"";InVerification;ŁÓDZKIE;tomaszowski;Tomaszów Mazowiecki;ul.;Wieloznaczność ul. vs os.
+TC-016;Tomaszów Mazowiecki;Rodego;"";"";Tomaszów Mazowiecki;Rodego;"";InVerification;ŁÓDZKIE;tomaszowski;Tomaszów Mazowiecki;ul.;Wieloznaczność ul. vs park
+TC-019;Warszawa;Marszałkowska;00-001;"";Warszawa;Marszałkowska;00-001;Verified;MAZOWIECKIE;Warszawa;Warszawa;ul.;Poprawny kod pocztowy
+TC-020;Warszawa;Marszałkowska;00001;"";Warszawa;Marszałkowska;00-001;Verified;MAZOWIECKIE;Warszawa;Warszawa;ul.;Kod bez myślnika
+TC-021;Warszawa;Marszałkowska;"00 001";"";Warszawa;Marszałkowska;00-001;Verified;MAZOWIECKIE;Warszawa;Warszawa;ul.;Kod ze spacją
+TC-024;Brodnica;Długa;87-300;"";Brodnica;Długa;87-300;Verified;KUJAWSKO-POMORSKIE;brodnicki;Brodnica;ul.;Wzbogacenie wszystkich pól
+TC-025;Zakrzewo;Kujawska;87-700;"";Zakrzewo;Kujawska;87-700;Verified;KUJAWSKO-POMORSKIE;aleksandrowski;Zakrzewo;ul.;Gmina wiejska
+TC-026;Warszawa;Marszałkowska;00-001;15;Warszawa;Marszałkowska;00-001;Verified;MAZOWIECKIE;Warszawa;Warszawa;ul.;Numer w zakresie
+TC-027;Warszawa;Marszałkowska;00-001;150;Warszawa;Marszałkowska;00-001;InVerification;MAZOWIECKIE;Warszawa;Warszawa;ul.;Numer poza zakresem
+TC-033;Łódź;Piotrkowska;"";"";Łódź;Piotrkowska;"";Verified;ŁÓDZKIE;Łódź;Łódź;ul.;Polskie znaki diakrytyczne
+TC-034;Warszawa;Żurawia;"";"";Warszawa;Żurawia;"";Verified;MAZOWIECKIE;Warszawa;Warszawa;ul.;Polskie znaki w ulicy
+TC-035;Biała Podlaska;Dmowskiego;"";"";Biała Podlaska;Dmowskiego;"";InVerification;LUBELSKIE;Biała Podlaska;Biała Podlaska;ul.;Miasto z wieloma słowami
+TC-036;Warszawa;Krakowskie Przedmieście;"";"";Warszawa;Krakowskie Przedmieście;"";Verified;MAZOWIECKIE;Warszawa;Warszawa;ul.;Ulica z wieloma słowami
+TC-037;Brodnica;700-lecia;"";"";Brodnica;700-lecia;"";Verified;KUJAWSKO-POMORSKIE;brodnicki;Brodnica;ul.;Ulica z numerem
+TC-038;Brodnica;Janaszka;"";"";Brodnica;Janaszka;"";Verified;KUJAWSKO-POMORSKIE;brodnicki;Brodnica;ul.;Ulica z NAZWA_2
+TC-041;"";"warszawa, Marszałkowska";00001;15;Warszawa;Marszałkowska;00-001;Verified;MAZOWIECKIE;Warszawa;Warszawa;ul.;Pełny workflow
+TC-042;lublin;Krakowskie Przedmieście;"20 001";25;Lublin;Krakowskie Przedmieście;20-001;Verified;LUBELSKIE;Lublin;Lublin;ul.;Workflow import
+
